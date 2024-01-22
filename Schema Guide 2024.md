@@ -1,4 +1,4 @@
-# Schema.org: A Guide to All Its Types
+# Schema.org: A Guide to All Its Types (2024)
 
 Schema.org, a collaborative effort between major search engines like Google, Bing, and Yandex, offers a rich vocabulary for structuring web content. This vocabulary, expressed through various schema types, helps search engines understand the meaning and context of your webpage, potentially leading to richer search results and enhanced user experiences. But with over 800 schema types in existence, navigating this vast landscape can be daunting. Fear not, intrepid explorer! This guide will serve as your map to understanding the diverse and fascinating world of Schema.org types.
 
