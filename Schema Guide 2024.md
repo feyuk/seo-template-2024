@@ -4,7 +4,7 @@ Schema.org, a collaborative effort between major search engines like Google, Bin
 
 ## Broad Schema Categories:
 
-- **Entity Types:** These represent real-world objects or concepts, like Person, Organization, Place, Event, and Product. Imagine each type as a building block, forming the foundation of your structured data.
+- **Entity Types:** These represent real-world objects or concepts, like Person, Organization, Place, Event, and Product. Imagine each type as a building block (forming the foundation of your structured data).
 
 - **Property Types:** These define specific attributes or characteristics of entity types. For example, name, description, url, price, and rating are all property types associated with the Product entity. Think of them as paintbrushes, adding details and depth to your entity blocks.
 
